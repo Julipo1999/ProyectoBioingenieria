@@ -1,2 +1,2 @@
-# ProyectoBioingenieria
-Proyecto Medidor Ritmo Cardiaco
+# PruebaIndividualBioingenieria
+Proyecto Robot Compañia
